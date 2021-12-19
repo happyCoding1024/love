@@ -6,5 +6,7 @@
 
 [纪念相册](https://happycoding1024.github.io/love/纪念相册/index.html)
 
+[文字告白](https://happycoding1024.github.io/love/文字告白/index.html)
+
 
 
