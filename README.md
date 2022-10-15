@@ -6,7 +6,7 @@
 
 [小橙子和小西贝](https://happycoding1024.github.io/love/小橙子和小西贝/index.html)
 
-[粒子文字]((https://happycoding1024.github.io/love/粒子文字/index.html))
+[粒子文字](https://happycoding1024.github.io/love/粒子文字/index.html))
 
 
 
